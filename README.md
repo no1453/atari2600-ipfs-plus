@@ -1,5 +1,5 @@
 # atari2600-ipfs-plus
-This is an extension of a project that puts an Atari 2600 emulator on the InterPlanetary File System.  About 2,000 extra games were added to the project it was forked from.
+This is an extension of a project that puts an Atari 2600 emulator on the InterPlanetary File System.  About 2,000 extra games were added to the project it was forked from. (https://github.com/caioalonso/atari2600-ipfs)
 
 You should be able to access a working copy from the IPFS address /ipfs/QmUip6yDECkF2CeCnND8GHqsbNZ2WhaN2JgNd8HHKF3pkM.
 (Must install IPFS: https://ipfs.io)
