@@ -4,4 +4,6 @@ This is an extension of a project that puts an Atari 2600 emulator on the InterP
 You should be able to access a working copy from the IPFS address /ipfs/QmTq6S8gWFDDAYAXX7ZwxCHXjUnJBtStk9AsdQACVzJ6EW.
 (Must install IPFS: https://ipfs.io)
 
+You may also try accessing it through the ipfs.io portal at https://ipfs.io/ipfs/QmTq6S8gWFDDAYAXX7ZwxCHXjUnJBtStk9AsdQACVzJ6EW/.
+
 Good tutorial on creating an IPFS website: https://medium.com/coinmonks/how-to-add-site-to-ipfs-and-ipns-f121b4cfc8ee
