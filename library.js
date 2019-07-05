@@ -2891,7 +2891,7 @@ var roms = [
 ];
 
 var romList = $('select#rom-list');
-var listItems = '<option value="">Load one from the catalog (2888 roms)</option>';
+var listItems = '<option value="">Choose one from the catalog (2888 choices)</option>';
 for (var i = 0; i < roms.length; i++) {
   listItems += '<option value="' + roms[i] + '">' + roms[i] + '</option>';
 }
