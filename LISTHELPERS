@@ -1,0 +1,12 @@
+Rom list generation helper commmands: (bash)
+- - - - - - - - - - - - - - - - - - - - - - -
+
+Remove apostrophes from game file names (WILL RENAME FILES, IGNORE "same file" ERRORS)
+
+for i in ./*; do mv "$i" "$(echo "$i" | tr -d "'")"; done
+
+Once games have no apostrophes, generate list to stdout of roms in directory, format files correctly with "'$file',"
+for 'library.js':
+
+for i in *; do echo "'$i',"; done;
+
